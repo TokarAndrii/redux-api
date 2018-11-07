@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.addArticleBtn{
+  padding: 10px 32px;
+  width: 200px;
+}
+
+.addArticleBtn:hover{
+  background-color:  rgb(0, 0, 128);
+  color: white;
+}
+
+input{
+  width: 400px;
+  height: 30px;
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+button{
+  width: 300px;
+  height: 40px;
+  margin-left: 16px;
+}
+
+button:hover{
+  background-color:  rgb(0, 0, 128);
+  color: white;
+}
+
+#textInput{
+  height: 300px;
+}
+
+
+
+
+
